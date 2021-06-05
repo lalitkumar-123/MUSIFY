@@ -1,0 +1,20 @@
+.btn-default:focus {
+  box-shadow: none !important;
+}
+
+.btn-default:hover {
+  background-color: #101010;
+}
+
+.btn-default {
+  margin: 0px;
+  padding: 0px;
+}
+
+.anchor:hover {
+  text-decoration: "underline";
+}
+
+.form-control:focus {
+  box-shadow: none !important;
+}
